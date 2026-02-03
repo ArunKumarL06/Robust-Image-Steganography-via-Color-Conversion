@@ -1,0 +1,5 @@
+{
+  "name": "AI-Enhanced Steganography Explorer",
+  "description": "An interactive web application demonstrating robust image steganography via color conversion. This tool simulates embedding a secret image, de-colorizing for transmission, and then reconstructing the original to extract the secret, complete with AI-powered analysis from Gemini.",
+  "requestFramePermissions": []
+}
