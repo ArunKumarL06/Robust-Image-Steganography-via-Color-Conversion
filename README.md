@@ -2,7 +2,12 @@
   
 <img width="508" height="683" alt="image" src="https://github.com/user-attachments/assets/aff6fb90-c71b-4721-a394-f2891f24fea9" />
 <img width="523" height="590" alt="image" src="https://github.com/user-attachments/assets/6c05c62e-336a-4a80-88d1-273d780471a4" />
-
+<img width="769" height="579" alt="image" src="https://github.com/user-attachments/assets/f188c7f1-4ef6-46d8-849d-104fef24bf2d" />
+<img width="738" height="722" alt="image" src="https://github.com/user-attachments/assets/a95a4363-ae30-4dbb-97a3-02eb83939a25" />
+<img width="800" height="1074" alt="image" src="https://github.com/user-attachments/assets/dad65604-93ba-4b93-98cb-c7ee9cbf0747" />
+<img width="782" height="665" alt="image" src="https://github.com/user-attachments/assets/8f9b6ab7-d14d-49f1-8d79-26d880d76e1d" />
+<img width="790" height="668" alt="image" src="https://github.com/user-attachments/assets/7cb490a0-8b7c-46a0-a0f6-e3853a46f4b8" />
+<img width="791" height="607" alt="image" src="https://github.com/user-attachments/assets/6f0ff0ac-83cd-466c-b478-1a1c9b84c3e3" />
 </div>
 
 # AI-Enhanced Steganography Explorer
