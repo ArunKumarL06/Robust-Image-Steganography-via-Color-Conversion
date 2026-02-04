@@ -203,5 +203,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Disclaimer**: This application is for educational and research purposes. Ensure compliance with applicable laws and regulations when using steganography techniques.
-<img width="791" height="607" alt="image" src="https://github.com/user-attachments/assets/939ba027-ad64-4791-a95c-2782e7f36e82" />
+<
 
